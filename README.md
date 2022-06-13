@@ -1,2 +1,2 @@
 # django01
-Zuri Training
+Zuri Training Program
